@@ -1,0 +1,10 @@
+Most seismologists assume that following a major earthquake and its aftershocks, the fault (a 
+break in Earth’s crust where pressure can trigger an earthquake) will remain quiet until stresses 
+have time to rebuild, typically over hundreds or thousands of years. Recent evidence of subtle 
+interactions between earthquakes may overturn this assumption, however. According to the 
+stress-triggering hypothesis, faults are unexpectedly responsive to subtle stresses they acquire as 
+neighboring faults shift. Rather than simply dissipating, stress relieved during an earthquake 
+travels along the fault, concentrating in sites nearby; even the smallest additional stresses may 
+then trigger another quake along the fault or on a nearby fault. Although scientists have long 
+viewed such subtle interactions as nonexistent, the hypothesis has explained the location and 
+frequency of earthquakes following several destructive quakes in California, Japan, and Turkey. 

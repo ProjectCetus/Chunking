@@ -1,0 +1,10 @@
+Visual recognition involves storing and retrieving memories. Neural activity, triggered by the eye, forms an image in 
+the brain`s memory system that constitutes an internal representation of the viewed object. When an object is 
+encountered again, it is matched with its internal representation and thereby recognized. Controversy surrounds the 
+question of whether recognition is a parallel, one-step process or a serial, step-by-step one. Psychologists of the
+Gestalt school maintain that objects are recognized as wholes in a parallel procedure: the internal representation is 
+matched with the retinal image in a single operation. Other psychologists have proposed that internal representation 
+features are matched serially with an object`s features. Although some experiments show that, as an object becomes 
+familiar, its internal representation becomes more holistic and the recognition process correspondingly more parallel, 
+the weight of evidence seems to support the serial hypothesis, at least for objects that are not notably simple and 
+familiar.

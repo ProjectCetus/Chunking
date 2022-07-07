@@ -1,0 +1,37 @@
+The history of the transmission of ancient Roman texts prior to invention of the printing press
+is reconstructed from evidence both internal and external to the texts themselves. Internal evidence
+is used to reconstruct the relationship of the surviving manuscripts of a Roman text to one
+another, as represented in a modern stemma codicum: a diagram depicting the genealogical
+relationship of surviving manuscripts and those the stemmas editor believes existed at one time.
+Stemma are scholar’s only road maps to textual connections based on internal evidence, but they
+may paint a distorted picture of reality because they diagram the relationships of only those
+manuscripts known or inferred today. If surviving copies are few, the stemma perforce brings
+into proximity manuscripts that were widely separated in time and place of origin. Conversely, the
+stemma can also bestow a semblance of separation on manuscripts written within a few months of
+one another or even in the same room.
+
+One type of external evidence that may shed light on the transmission of Roman texts is the
+availability of a work in the Middle Ages, when many classical texts were circulated. Too often,
+though, too much is inferred about a particular works circulation in the Middle Ages from the
+number of manuscripts surviving today. When a work survives in a single manuscript copy, editors
+call the manuscript, rather glamorously, the lone survivor–implying that all its (presumably rare)
+companions were destroyed sometime early in the Middle Ages by pillaging barbarians. It is
+equally possible that the work survived far into the Middle Ages in numerous copies in monastic
+libraries but were unnoticed due to lack of interest. The number of extant manuscripts, however
+few, really does not allow scholars to infer how many ancient Latin manuscripts of a work
+survived to the ninth, the twelfth, or even the fifteenth century.
+
+Quotations from a Roman text by a medieval author are another category of external evidence: but
+does the appearance of a rare word or grammatical construction—or even a short passage
+—really indicate a medieval author’s firsthand knowledge of this or that ancient work, or does
+such usage instead derive from some intermediate source, such as a grammar book or a popular
+style manual? Medieval authors do quote extensively from ancient authors; while such quotations
+provide some evidence of the works medieval circulation, as well as define its evolving fortunes
+and the various uses to which it was put, they may be far less useful in reconstructing the text of
+an ancient work.
+
+Much as scholars want to look for overall patterns and formulate useful generalizations, the
+transmission of each text is a different story and each manuscripts history is unique. Scholars must
+be careful not to draw conclusions that go beyond what the evidence can support.
+
+

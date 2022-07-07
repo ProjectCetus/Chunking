@@ -1,0 +1,30 @@
+Many theories have been formulated to explain the role of grazers such as zooplankton in controlling the amount 
+of planktonic algae (phytoplankton) in lakes. The first theories of such grazer control were merely based on 
+observations of negative correlations between algal and zooplankton numbers. A low number of algal cells in the 
+presence of a high number of grazers suggested, but did not prove, that the grazers had removed most of the algae. 
+The converse observation, of the absence of grazers in areas of high phytoplankton concentration, led Hardy to 
+propose his principle of animal exclusion, which hypothesized that phytoplankton produced a repellent that excluded 
+grazers from regions of high phytoplankton concentration. This was the first suggestion of algal defenses against 
+grazing. 
+
+Perhaps the fact that many of these first studies considered only algae of a size that could be collected in a net (net 
+phytoplankton), a practice that overlooked the smaller phytoplankton (nannoplankton) that we now know grazers are 
+most likely to feed on, led to a de-emphasis of the role of grazers in subsequent research. Increasingly, as in the 
+individual studies of Lund, Round, and Reynolds, researchers began to stress the importance of environmental factors 
+such as temperature, light, and water movements in controlling algal numbers. These environmental factors were 
+amenable to field monitoring and to simulation in the laboratory. Grazing was believed to have some effect on algal 
+numbers, especially after phytoplankton growth rates declined at the end of bloom periods, but grazing was considered 
+a minor component of models that predicted algal population dynamics. 
+
+The potential magnitude of grazing pressure on freshwater phytoplankton has only recently been determined 
+empirically. Studies by Hargrave and Geen estimated natural community grazing rates by measuring feeding rates 
+of individual zooplankton species in the laboratory and then computing community grazing rates for field conditions 
+using the known population density of grazers. The high estimates of grazing pressure postulated by these researchers 
+were not fully accepted, however, until the grazing rates of zooplankton were determined directly in the field, by means 
+of new experimental techniques. Using a specially prepared feeding chamber, Haney was able to record zooplankton 
+grazing rates in natural field conditions. In the periods of peak zooplankton abundance, that is, in the late spring and in 
+the summer, Haney recorded maximum daily community grazing rates, for nutrient-poor lakes and bog lakes, 
+respectively, of 6.6 percent and 114 percent of daily phytoplankton production. Cladocerans had higher grazing rates 
+than copepods, usually accounting for 80 percent of the community grazing rate. These rates varied seasonally, reaching 
+the lowest point in the winter and early spring. Haney`s thorough research provides convincing field evidence that 
+grazers can exert significant pressure on phytoplankton population.

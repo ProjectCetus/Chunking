@@ -1,0 +1,31 @@
+Aided by the recent ability to analyze samples of air trapped in glaciers, scientists now have a clearer idea 
+of the relationship between atmospheric composition and global temperature change over the past 160,000 
+years. In particular, determination of atmospheric composition during periods of glacial expansion and retreat 
+(cooling and warming) is possible using data from the 2,000-meter Vostok ice core drilled in Antarctica. The 
+technique involved is similar to that used in analyzing cores of marine sediments, where the ratio of the two 
+common isotopes of oxygen, 18O and 16O, accurately reflects past temperature changes. Isotopic analysis of 
+oxygen in the Vostok core suggests mean global temperature fluctuations of up to 10 degrees centigrade over 
+the past 160,000 years.
+
+Data from the Vostok core also indicate that the amount of carbon dioxide has fluctuated with temperature over 
+the same period: the higher the temperature, the higher the concentration of carbon dioxide and the lower the 
+temperature, the lower the concentration. Although change in carbon dioxide content closely follows change in 
+temperature during periods of deglaciation, it apparently lags behind temperature during periods of cooling. 
+The correlation of carbon dioxide with temperature, of course, does not establish whether changes in atmospheric 
+composition caused the warming and cooling trends or were caused by them.
+
+The correlation between carbon dioxide and temperature throughout the Vostok record is consistent and 
+predictable. The absolute temperature changes, however, are from 5 to 14 times greater than would be expected 
+on the basis of carbon dioxide‘s own ability to absorb infrared radiation, or radiant heat. This reaction suggests 
+that, quite aside from changes in heat-trapping gases, commonly known as greenhouse gases, certain positive 
+feedbacks are also amplifying the temperature change. Such feedbacks might involve ice on land and sea, clouds, 
+or water vapor, which also absorb radiant heat
+
+Other data from the Vostok core show that methane gas also correlates closely with temperature and carbon dioxide. 
+The methane concentration nearly doubled, for example, between the peak of the penultimate glacial period and the 
+following interglacial period. Within the present interglacial period it has more than doubled in just the past 300 years 
+and is rising rapidly. Although the concentration of atmospheric methane is more than two orders of magnitude lower 
+than that of carbon dioxide, it cannot be ignored: the radiative properties of methane make it 20 times more effective, 
+molecule for molecule, than carbon dioxide in absorbing radiant heat. On the basis of a simulation model that 
+climatological researchers have developed, methane appears to have been about 25 percent as important as carbon 
+dioxide in the warming that took place during the most recent glacial retreat 8,000 to 10,000 years ago.

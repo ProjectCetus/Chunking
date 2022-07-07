@@ -1,0 +1,10 @@
+Echolocating bats emit sounds in patterns-characteristic of each species-that contain both frequency-modulated (FM) 
+and constant-frequency (CF) signals. The broadband FM signals and the narrowband CF signals travel out to a target, 
+reflect from its, and return to the hunting bat. In this process of transmission and reflection, the sounds are changed, 
+and the changes in the echoes enable the bat to perceive features of the target.
+
+The FM signals report information about target characteristics that modify the timing and the fine frequency structure, 
+or spectrum, of echoes-for example, the target's size, shape, texture, surface structure, and direction in space. Because 
+of their narrow bandwidth, CF signals portray only the target's presence and, in the case of some bat species, its motion 
+relative to the bat's. Responding to changes in the CF echo's frequency, bats of some species correct in flight for the 
+direction and velocity of their moving prey.

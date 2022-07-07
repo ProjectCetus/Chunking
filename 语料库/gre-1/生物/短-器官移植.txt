@@ -1,0 +1,9 @@
+The transplantation of organs from one individual to another normally involves two major problems: 
+(1) organ rejection is likely unless the transplantation antigens of both individuals are nearly identical, and 
+(2) the introduction of any unmatched transplantation antigens induces the development by the recipient of 
+donor-specific lymphocytes that will produce violent rejection of further transplantations from that donor. 
+However, we have found that, among many strains of rats, liver transplants are never rejected, and that they 
+even induce a state of donor-specific unresponsiveness. Our hypothesis is that (1) many strains of rats simply 
+cannot mount a sufficiently vigorous destructive immune-response (using lymphocytes) to outstrip the liver‘s 
+relatively great capacity to protect itself from immune-response damage and that (2) the systemic unresponsiveness 
+observed is due to concentration of the recipient‘s donor-specific lymphocytes at the site of the liver transplant. 

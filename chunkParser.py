@@ -6,21 +6,32 @@ from nltk import pos_tag
 from nltk.stem import WordNetLemmatizer
 from nltk.corpus import wordnet
 
+
+# -*- coding: utf-8 -*-
+import psycopg2
+
+# 获得连接
+conn = psycopg2.connect(
+    database="cetus-dev",
+    user="postgres",
+    password="123456",
+    host="127.0.0.1",
+    port="80",
+)
+# 获得游标对象
+cursor = conn.cursor()
+
+
 # np noun phrase
 # pp prepositional phrase
 # vp verb phrase
-f = open("./holmes/nava.txt", "r")
-content = f.read()
-f.close()
-
-document = content
 
 
 class NormalChunks:
     def __init__(self, content):
+        # innoof就是介词，除了of
         self.grammar = r"""
         NP: {<DT>?<JJ|VBN|VBG>+<NN|NNS>+}
-
         PP: {<IN><NP>}   
         AVP: {<RB.*><VB.*>}    
 
@@ -32,8 +43,7 @@ class NormalChunks:
 
         RBIN: {<RB.*><IN>}
         DTNN: {<DT>?<NN|NNS>}
-        Prepos: {of|to|towards|with|about|for}
-        VIN: {< DTNN|VB.*|NP>+.*<Prepos|TO>(<DT>?<NN|NNS|NP>)*}
+        VIN: {< DTNN|VB.*|NP>+.*<IN|TO>(<DT>?<NN|NNS|NP>)*}
         
         RBINNP: {<RBIN><NN.*|NP>}
         """
@@ -52,6 +62,11 @@ class NormalChunks:
                     continue
                 res.append((i.label(), self.traverse(i).strip()))
         return res
+
+    def finalFilter(self, chunk):
+        if chunk[0:2] == "of":
+            return chunk[3:]
+        return chunk
 
     def traverse(self, content):
         ret = ""
@@ -78,7 +93,7 @@ class NormalChunks:
         parsedTree = regexp.parse(sentenceTree)
         return parsedTree
 
-    def predisposal(self):
+    def predisposal(self):  # 预处理，把一些问题去了
         self.content = self.content.replace("\n", " ")
         for i in self.easywords:
             self.content = self.content.replace(i, "")
@@ -94,25 +109,28 @@ class NormalChunks:
         if sentence.strip() == "":
             return [], ()
 
-
         sentenceTree = self.preprocess(sentence)[row]
 
         cp = nltk.RegexpParser(self.grammar, loop=2)
         res = self.getChunks(cp.parse(sentenceTree))
+
         pos = []  # 格式： [(0,1),(3,5)]
+        FinalRet = []  # 用来返回最后的词块结果
         for i in res:
-            start = self.content.find(i[1])
+            phrase = self.finalFilter(i[1])  # 二次处理，防止出现太无用的词块
+            start = self.content.find(phrase)
             if start == -1:
                 print(sentence)
-            end = start + len(i[1]) - 1
+            end = start + len(phrase) - 1
             pos.append((start, end))
+            FinalRet.append([i[0], phrase])
 
-        return res, pos
+        return FinalRet, pos
 
     # except:
     #    return []
 
-    def chunking(self):
+    def chunking(self):  # 输出成字符串形式
         out = ""
         for i in self.content.split("."):
             res, pos = self.normalChunks(i)
@@ -121,6 +139,37 @@ class NormalChunks:
                     out += j[0] + " " + j[1] + "  "
                 out += " " + str(pos)
                 out += "\n"
+        return out
+
+    def chunking_json(self):  # 输出成json模式
+        out = {}
+        for i in self.content.split("."):
+            tmp = []
+            res, pos = self.normalChunks(i)
+            if res != []:
+                for index, ele in enumerate(res):
+                    # res[index][0]是词块类型
+                    # res[index][1]是词块
+                    # pos[index][0] 是起始位置
+                    # pos[index][1] 是结尾位置
+                    if i in out:
+                        out[i].append(
+                            {
+                                "type": res[index][0],
+                                "content": res[index][1],
+                                "posStart": pos[index][0],
+                                "posEnd": pos[index][1],
+                            }
+                        )
+                    else:
+                        out[i] = [
+                            {
+                                "type": res[index][0],
+                                "content": res[index][1],
+                                "posStart": pos[index][0],
+                                "posEnd": pos[index][1],
+                            }
+                        ]
         return out
 
 
@@ -150,10 +199,113 @@ class extractFromFiles:
                 print(i[0])
 
 
-eff1 = extractFromFiles()
-normal = NormalChunks(content)
-out = normal.chunking()
+def write_into_db(contentjson, article):
+    # 先新建一个词块库
+    cursor.execute("select count(*) from chunkrepo;")
+    chunkRepoID = cursor.fetchone()[0]
+    print("ChunkRepoID: ", chunkRepoID)
 
-f = open("report.txt", "w")
-f.write(out)
-f.close()
+    cursor.execute("select count(*) from sentence")
+    sentenceID = cursor.fetchone()[0]
+
+
+    chunkIDs = []
+    cursor.execute("select count(*) from chunk;")
+    chunkID = cursor.fetchone()[0]
+    sentenceIDs = []
+    for i in contentjson:
+        sentence = i
+        sentenceID += 1
+        sentenceIDs.append(sentenceID)
+        # -- 插入句子 -- 
+        cursor.execute(
+            "insert into sentence (sentence_id,content) values ("
+            + str(sentenceID)
+            + ",%s" 
+            + ")"
+            ,(sentence,)
+        )
+        # -- end --
+        for j in contentjson[i]:
+
+            attr = j['type']
+            chunk = j['content']
+            posStart = j['posStart']
+            posEnd = j['posEnd']
+            # -- 插入词块 --
+            chunkID = chunkID + 1
+            chunkIDs.append(chunkID)
+            cursor.execute(
+                "insert into chunk (chunk_id,content,pos_start,pos_end) values ("
+                + str(chunkID)
+                + ",%s,"
+                + str(posStart) +','
+                + str(posEnd)
+                + ")" 
+                , (chunk,)
+            )
+            # -- end --
+
+            # -- 插入词块对应句子 --
+            cursor.execute(
+                "insert into chunk_sen_map (chunk_id,sentence_id) values("
+                + str(chunkID)
+                + ","
+                + str(sentenceID)
+                + ")"
+            )
+
+        
+
+    # -- 插入词块库对应的词块 --
+    cursor.execute(
+        "insert into chunkrepo (chunkrepo_id,chunk_id_list) values(0,ARRAY"
+        + str(chunkIDs)
+        + ") "
+    )
+
+    # -- end --
+
+    # -- 插入文章 --
+    cursor.execute("select count(*) from article")
+    articleID = cursor.fetchone()[0]
+    cursor.execute(
+        "insert into article (article_id,title,content, sentence_pos_start,sentence_pos_end) values("
+        + str(articleID)
+        + ",%s,%s" 
+        + ","
+        + str(sentenceIDs[0]) +","
+        + str(sentenceIDs[len(sentenceIDs)-1])
+        + ") "
+        , ("", article)
+        
+        
+    )
+    # -- end --
+
+    conn.commit()
+
+def delDB():
+    cursor.execute("delete from chunk")
+    cursor.execute("delete from chunkrepo")
+    cursor.execute("delete from sentence")
+
+    cursor.execute("delete from article")
+
+    cursor.execute("delete from chunk_sen_map")
+
+
+    conn.commit()
+
+delDB()
+dir = './语料库/gre-2/生物健康/'
+for i in os.listdir(dir):
+
+    f = open(dir+i, "r")
+    content = f.read()
+    f.close()
+
+    eff1 = extractFromFiles()
+    normal = NormalChunks(content)
+    out = normal.chunking_json()
+    write_into_db(out,content)

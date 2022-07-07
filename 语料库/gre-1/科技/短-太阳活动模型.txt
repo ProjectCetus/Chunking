@@ -1,0 +1,8 @@
+Currently, there are two models of solar activity. The first supposes that the Sun's internal motions (caused 
+by rotation and convection) interact with its large-scale magnetic field to produce a dynamo, a device in which 
+mechanical energy is converted into the energy of a magnetic field. In short, the Sun's large-scale magnetic 
+field is taken to be self-sustaining, so that the solar- activity cycle it drives would be maintained with little overall 
+change for perhaps billions of years. The alternative explanation supposes that the Sun's large-scale magnetic 
+field is a remnant of the field the Sun acquired when it formed, and is not sustained against decay. In this model, 
+the solar mechanism dependent on the Sun's magnetic field runs down more quickly. Thus, the characteristics of 
+the solar-activity cycle could be expected to change over a long period of time.
