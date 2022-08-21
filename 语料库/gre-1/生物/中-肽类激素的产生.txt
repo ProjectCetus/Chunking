@@ -1,0 +1,12 @@
+Until about five years ago, the very idea that peptide hormones might be made anywhere in the brain 
+besides the hypothalamus was astounding. But laboratory after laboratory found that antiserums to 
+peptide hormones, when injected into the brain, bind in places other than the hypothalamus, indicating 
+that either the hormones or substances that cross-react with the antiserums are present. The immunological 
+method of detecting peptide hormones by means of antiserums, however, is imprecise. Cross-reactions are 
+possible and this method cannot determine whether the substances detected by the antiserums really are 
+the hormones, or merely close relatives. Furthermore, this method cannot be used to determine the location 
+in the body where the detected substances are actually produced. New techniques of molecular biology, 
+however, provide a way to answer these questions. It is possible to make specific complementary DNA`s 
+(cDNA`s) that can serve as molecular probes to seek out the messenger RNA`s (mRNA`s) of the peptide 
+hormones. The brain cells containing these mRNA`s can then be isolated and their mRNA`s decoded to 
+determine just what their protein products are and how closely the products resemble the true peptide hormones.

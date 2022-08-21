@@ -1,0 +1,10 @@
+Since science tries to deal with reality, even the most precise sciences normally work with more or less imperfectly 
+understood approximations toward which scientists must maintain an appropriate skepticism. Thus, for instance, it may 
+come as a shock to mathematicians to learn that the Schrodinger equation for the hydrogen atom is not a literally correct 
+description of this atom, but only an approximation to a somewhat more correct equation taking account of spin, magnetic 
+dipole, and relativistic effects; and that this corrected equation is itself only an imperfect approximation to an infinite set of 
+quantum field-theoretical equations. Physicists, looking at the original Schrodinger equation, learn to sense in it the 
+presence of many invisible terms in addition to the differential terms visible, and this sense inspires an entirely appropriate 
+disregard for the purely technical features of the equation. This very healthy skepticism is foreign to the mathematical 
+approach. Mathematics must deal with well-defined situations. Thus, mathematicians depend on an intellectual effort 
+outside of mathematics for the crucial specification of the approximation that mathematics is to take literally.

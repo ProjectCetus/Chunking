@@ -1,0 +1,36 @@
+The deep sea typically has a sparse fauna dominated by tiny worms and crustaceans, with an even 
+sparser distribution of larger animals. However, near hydrothermal vents, areas of the ocean where
+ warm water emerges from subterranean sources, live remarkable densities of huge clams, blind crabs, 
+and fish. 
+
+Most deep-sea faunas rely for food on particulate matter, ultimately derived from photosynthesis, 
+falling from above. The food supplies necessary to sustain the large vent communities, however, 
+must be many times the ordinary fallout. The first reports describing vent faunas proposed two possible 
+sources of nutrition: bacterial chemosynthesis, production of food by bacteria using energy derived from 
+chemical changes, and advection, the drifting of food materials from surrounding regions. Later, evidence 
+in support of the idea of intense local chemosynthesis was accumulated: hydrogen sulfide was found in 
+vent water; many vent-site bacteria were found to be capable of chemosynthesis; and extremely large 
+concentrations of bacteria were found in samples of vent water thought to be pure. This final observation 
+seemed decisive. If such astonishing concentrations of bacteria were typical of vent outflow, then food 
+within the vent would dwarf any contribution from advection. Hence, the widely quoted conclusion was 
+reached that bacterial chemosynthesis provides the foundation for hydrothermal-vent food chains一an 
+exciting prospect because no other communities on Earth are independent of photosynthesis. 
+
+There are, however, certain difficulties with this interpretation. For example, some of the large sedentary 
+organisms associated with vents are also found at ordinary deep-sea temperatures many meters from the
+nearest hydrothermal sources. This suggests that bacterial chemosynthesis is not a sufficient source of 
+nutrition for these creatures. Another difficulty is that similarly dense populations of large deep-sea animals 
+have been found in the proximity of "smokers" -vents where water emerges at temperatures up to 350°C. 
+No bacteria can survive such heat, and no bacteria were found there. Unless smokers are consistently located 
+near more hospitable warm-water vents, chemosynthesis can account for only a fraction of the vent faunas. 
+It is conceivable, however, that these large, sedentary organisms do in fact feed on bacteria that grow in 
+warm-water vents, rise in the vent water, and then rain in peripheral areas to nourish animals living some distance 
+from the warm-water vents. 
+
+Nonetheless, advection is a more likely alternative food source. Research has demonstrated that advective flow, 
+which originates near the surface of the ocean where suspended particulate matter accumulates, transports some 
+of that matter and water to the vents. Estimates suggest that for every cubic meter of vent discharge, 350 milligrams 
+of particulate organic material would be advected into the vent area. Thus, for an average-sized vent, advection 
+could provide more than 30 kilograms of potential food per day. In addition, it is likely that small live animals in the 
+advected water might be killed or stunned by thermal and/or chemical shock, thereby contributing to the food supply 
+of vents.

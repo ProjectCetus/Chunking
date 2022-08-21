@@ -1,0 +1,73 @@
+In the past century,it has been seen that the consumption of non-renewable sources of energy has caused more environmental damage than any other human activity. Electricity generated from fossil fuels such as coal and crude oil has led to high concentrations of harmful gases in the atmosphere.This has in turn led to many problems being faced today such as ozone depletion and global warming. Vehicular pollution has also been a major problem.
+
+　　Therefore,alternative sources of energy have become very important and relevant to today's world.These sources,such as the sun and wind,can never be exhausted and therefore arc called renewable.They cause less emission and are available locally.Their use can. to a large extent,reduce chemical,radioactive, and thermalpollution. They stand out as a viable source of clean and limitless energy.These are also known as non-conventional sources of energy.Most of the renewable sources of energy are fairfy non-polluting and considered clean though biomass,a renewable source,is a major polluter indoors.
+
+　　Solar Energy
+
+　　Solar energy is the most readily available source of energy.It does not belong to anybody and is,therefore,free.It is also the most important of the non-conventional sources of energy because it is non-polluting and,therefore.helps in lessening the greenhouse effect.
+
+　　Solar energy has been used since prehistoric times.but in a most primitive manner.Before 1970,some research and development was carried out in a few countries to exploit solar energy more efficiently,but most of this work remained mainly academic.After the dramatic rise in oil prices in the 1970s,several countries began to formulate extensive research and development programmes to exploit solar energy.
+
+　　When we hang out our clothes to dry in the sun,we use the energy of the sun.In the same way, solar panels absorb the energy of the sun to provide heat for cooking and for heating water.Such systems are available in the market and are being used in homes and factories.
+
+　　Solar energy can also be ursed to meet our electricity requirements.Through Solar Photovoltaic(SPV)cells,solar radiation gets converted into DC electricity directly.This electricity can either be used as it is orcan be stored in the battery.This stored electrical energy then can be used ac night.
+
+　　Hydro Power
+
+　　Hydro power is one of the best,cheapest,and cleanest source of energy,although,with big dams,there are many environmental and social problems.Small dams are,however,free from these problems.This is in fact one ofthe earliest known renewable energy sources.in the country(since the beginning of the 20th century).
+
+　　In fact,for the last few hundred years,people living in the hills of the Himalayas have been using water mills.or chakki,to grind wheat.Besides being free from the problem of pollution.small hydropower plants arealso free from issues and controversies that are associated with the bigger projects.namely affecting the lives of thousands of people living along the banks of the rivers.destruction of large areas under forest.and seismological threats.
+
+　　New environmental laws affected by the danger of global warming have made energy from small hydropower plants more relevant.These small hydropower piants can serve the energy needs of remote rural areas independently.The real challenge in a remote area lies in successful marketing of the energy and recovering the dues.Local industries should be encouraged to use this electricity for sustainable development.
+
+　　It is a technology with enormous potential.which could exploit the water resources to supply energy to remote rural areas with little access to conventional energy sources.It also eliminates most of the negative environmental effects associated with large hydro projects.
+
+　　Energy From the Sea-Ocean Thermal,Tidal and Wave Energy
+
+　　On an averaige,the 60 million square kilometre of the tropical seas absorb solar radiation equivalent to the heat content of 245 billion barrels of oil.Scientists feel that if this energy can be tapped a large source of energy will be available to the tropical countries and to other countries as well.The process of harnessing this energy is called OTEC(ocean thermal energy conversion).It uses the temperature differences between the surface of the ocean and the depths of about lOOOm to operate a heat engine.which produces electric power.
+
+　　Energy is also obtained from wavcs and tides.In some countries such as Japan small scale power generators run by energy from waves of the ocean,have been used as power sources for channcl marking buoys.
+
+　　Biomass
+
+　　Biomass is a renewable energy resource derived from the carbonaceous waste of various human and natural activities.It is derived from numerous sources,including the by-products from the timber industry.agricultural crops,raw material from the forest,major parts of household waste and wood.
+
+　　Biomass does not add carbon dioxide to the atmosphere as it absorbs the same amount of carbon in growing as it 
+releases when consumed as a fuel. Its advantage is that it can be used to generate electricity with the same equipment of 
+power plants that are now burning fossil fuels.Biomass is an important source of energy and the most important fuel 
+worldwide after coal,oil and natural gas.
+
+　　Traditional use of biomass is more than its use in modern application.In the developed world biomass is again 
+becoming important for applications such as combined heat and power generation.In addition,biomass energy is gaining 
+significance as a source of clean heat for domestic heating and community heating applications.In fact in countries like 
+Finland.USA and Sweden the per capita biomass energy used is higher than it is in India.China or in Asia.
+
+　　Geothermal Energy
+
+　　We live between two great sources of energy,the hot rocks beneath the surface of the earth and the sun in the sky.Our
+ ancestors knew che value of geothermal energy;they bathed and cooked in hot springs.Today we have recognized that 
+this resource has potential for much broader application.
+
+　　The core of the earth is very hot and it is possible to make use of this geothermal energy(in Greek it means heat from 
+the earth).These are areas where there are volcanoes.hot springs,and geysers,and methane under the water in the oceans 
+and seas. n some countries,such as in the USA water is pumped from underground hot water deposits and used to heat 
+people's houses.
+
+　　The utilization of geothermal energy for the production of electricity dates back to the early part of thetwentieth 
+century.For 50 years the generation of electricity from geothermal energy was confined to Italy and interest in this 
+technology was slow co spread elsewhere.In 1943 the use of geothermal hot water was pioneered in lceland.
+
+　　Co-generation
+
+　　Co-generation is the concept or producing two forms of energy from one fuel.One of the forms of energy must always 
+be heat and the other may be electricity or mechanical energy.In a conventional power plant,fuel is burnt in a boiler to 
+generate high-pressure steam.This steam is used to drive a turbine.which in turn drives an alternator through a steam 
+turbine to produce electric power.The exhaust steam is generally condensed to water which goes back to the boiler.
+
+　　As the low-pressure steam has a large quantum of heat which is lost in the process of condensing,the efficiency of 
+conventional power plants is only around 35%.In a cogeneration plant,very high efficiency levels,in the range of 75%-90%,
+can be reached.This is so,because the low-pressure exhaust steam coming out of th turbine is not condensed,but used for 
+heating purposes in factories or houses.
+
+　　Since co-generation can meet both power and heat needs, it has otber advantages as well in the form of significant 
+cost savings for the plant and reduction in emissions of pollutants due to reduced fuel consumption.

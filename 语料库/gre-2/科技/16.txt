@@ -1,0 +1,7 @@
+The physicist Wallace Sabine pioneered the scientific study of architectural acoustics when he was 
+asked in 1895 to fix a university lecture hall in which the echo of a speaker’s words rendered them 
+unintelligible. He found that the length of time it takes a sound’s echo to decay is determined by 
+the absorption of the sound’s original energy by surrounding material. By hanging panels of 
+sound-absorbing felt on the walls, Sabine reduced the echo enough to make the hall usable. And 
+the data he compiled yielded a mathematical formula for the relationship between a room’s echo 
+duration, its quantity and quality of sound-absorbing materials, and its spatial volume. 

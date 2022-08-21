@@ -1,0 +1,11 @@
+Constant variations in the amount of sunlight available on Earth at any given location make 
+energy storage a necessary design feature of terrestrial solar-energy systems. For systems 
+transforming solar to thermal energy, the thermal energy may be stored in matter as either latent 
+heat or sensible heat. Latent heat is absorbed or released whenever matter changes phase, as when 
+matter changes from liquid to gas, for example, or from gas to liquid. Large heat capacities are 
+associated with certain materials, like salts, but in any substance this storage is available only at 
+the unique fixed temperature at which the particular phase transition occurs in that substance. 
+Moreover, materials that have transitions at the temperatures that terrestrial solar-energy systems 
+are likely to encounter are usually destructively corrosive at those temperatures. The storage of 
+sensible heat, on the other hand, allows flexibility as to temperature, in addition, safe 
+substances like water and most rocks have large sensible heat capacities. 

@@ -1,0 +1,7 @@
+The transfer of heat and water vapor from the ocean to the air above it depends on a disequilibrium at 
+the interface of the water and the air. Within about a millimeter of the water, air temperature is close to 
+that of the surface water, and the air is nearly saturated with water vapor. But the differences, however 
+small, are crucial, and the disequilibrium is maintained by air near the surface mixing with air higher up, 
+which is typically appreciably cooler and lower in water-vapor content. The air is mixed by means of 
+turbulence that depends on the wind for its energy. As wind speed increases, so does turbulence, and 
+thus the rate of heat and moisture transfer. Detailed understanding of this phenomenon awaits further study.

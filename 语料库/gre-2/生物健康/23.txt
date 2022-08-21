@@ -1,0 +1,6 @@
+A mouse’s immune system generally rejects proteins different from those produced by that mouse. 
+The immune system of a pregnant mouse does not, however, reject the mouse’s fetuses, although 
+the fetal tissue a fetus produces as it develops typically contains many such proteins. Some 
+scientists hypothesize that the placenta surrounding the fetus physically blocks the mother’s 
+immune system. But others, noting that the placenta produces IDO, an enzyme that suppresses the 
+immune system, hypothesize that IDO plays a crucial role in protecting the fetus. 

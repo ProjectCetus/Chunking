@@ -1,0 +1,21 @@
+o fully understand the concept of the "Paperless Office",one must understand what it conceptually was supposed to mean,
+as well as what it has evolved into as its current form.Early forms of the paperless office would have concentrated around 
+word processing documents and the ability to create,store and manage their existence electronically.However,you were 
+limited in scope as to what you could do to"manage"these documents.Most of the management revolved around viewing 
+and perhaps sharing it with other users in the organization.There were no automated programs that handled workflow,
+scanning,tagging and management of these documents effectively.Scanners were (at a cost-effective price)too expensive 
+for the average office to acquire based on the return on investment.At the corporate level,there was no direction as to 
+handle workflow and to analyze where paper came from and where it had to go internally and if there was a process in 
+place,the tools were not mature enough or existing to handle it.
+
+　　In the last few years,technology has finally been catching up to the needs and requirements of the office environment.
+Scanners that previously cost tens of thousands of dollars now can be acquired for hundreds.Digital copiers/printers now 
+incorporate high speed scanning and OCR capability,even at the lowest levels.The technology initiative has now been 
+transferred to the IT and MIS departments of corporations as well as law firms.Clearly,the tools necessary to transform 
+paper-full to a paperless office are now widely available.What then,is stopping the widespread adoption of the concept of 
+the paperless office?Cultural issues are probably one of the largest obstructions to the implementation of the concept of 
+the paperless office.Plainly,people feel comfortable doing what they know how to do best(shuffle paper around)and 
+modifying theirhabits requires a focus that makes them feel that they are,in fact,doing things better and more efficiently.
+Implementing a paperless office environment that introduces processes that are more difficult and technologically 
+challenging than the previous environment is doomed to fail from the start,Keep all processes simple,introduce 
+technology that is easy to learn and use,and document the workflow.

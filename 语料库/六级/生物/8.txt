@@ -1,0 +1,25 @@
+If you go down to the woods today, you may meet high-tech trees genetically modified to speed their growthor improve 
+the quality of their wood. Genetically-engineered food crops have become increasingly common, albeit controversial. over 
+the past ten years. But genetic engineering of trees has lagged behind.
+
+　　Part of the reason is technical. Understanding. and then altering, the genes of a big pine tree are more complex than 
+creating a better tomato. While tomatoes sprout happily, and rapidly, in the laboratory, growing a whole tree from a single, 
+genetically altered cell in a test tube is a tricky process that takes years, not months. Moreover. little is known about tree
+ genes. Some trees, such as pine trees. have a lot of DNA-roughly ten times as much as human. And, whereas the Human 
+Genome Project is more than half-way throughits task of isolating and sequencing the estimated 100,00 genes in human 
+cells. similar efforts to analyzetree genes are still just saplings.
+
+　　Given the large number of tree genes and the little that is known about them, tree engineers are starting with a search 
+for genetic "markers". The first step is to isolate DNA from trees with desirable propertiessuch as insect resistance. The next 
+step is to find stretches of DNA that show the presence of a particular gene. Then, when you mate two trees with different 
+desirable properties, it is simple to check which offspring contain them all by looking for the genetic markers. Henry 
+Amerson, at North Carolina State University, is using genetic markers to breed fungal resistance into southern pines. 
+Billions of these are grown across America for pulp and paper, and outbreaks of disease are expensive. But not all individual 
+trees are susceptible. Dr. Amerson’s group has found markers that distinguish fungus-resistant stock from disease-prone 
+trees.Using traditional breeding techniques, they are introducing the resistance genes into pines on test sites in America.
+
+　　Using generic markers speeds up old-fashioned breeding methods becauseyou no longer have to wait for the tree to 
+grow up to see if it has the desiredtraits. But it is more a sophisticated form of selective breeding. Now. however.interest in 
+genetic tinkering (基因修补) is also gaining ground. To this end, Dr.Amerson and his colleagues are taking part in the Pine 
+Gene Discovery Project. an initiative to identify and sequence the 50,000-odd genes in the pine tree's genome. Knowing 
+which gene does what should make it easier to know what to alter.

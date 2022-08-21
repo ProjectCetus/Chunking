@@ -1,0 +1,14 @@
+Historically, a cornerstone of classical empiricism has been the notion that every true generalization must be 
+confirmable by specific observations. In classical empiricism, the truth of "All balls are red," for example, is 
+assessed by inspecting balls; any observation of a non red ball refutes unequivocally the proposed generalization. 
+
+
+
+For W.V.O. Quine, however, this constitutes an overly "narrow" conception of empiricism. "All balls are red," he 
+maintains, forms one strand within an entire web of statements (our knowledge); individual observations can be 
+referred only to this web as a whole. As new observations are collected, he explains, they must be integrated into 
+the web. Problems occur only if a contradiction develops between a new observation, say, "That ball is blue," and 
+the preexisting statements. In that case, he argues, any statement or combination of statements (not merely the "
+offending" generalization, as in classical empiricism) can be altered to achieve the fundamental requirement, a 
+system free of contradictions, even if, in some cases, the alteration consists of labeling the new observation a 
+"hallucination."

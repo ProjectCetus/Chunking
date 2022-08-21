@@ -1,0 +1,11 @@
+Currently, the paramount problem in the field of biomaterials, the science of replacing diseased tissue with 
+human-made implants, is control over the interface, or surface, between implanted biomaterials and living 
+tissues. The physical properties of most tissues can be matched by careful selection of raw materials: metals, 
+ceramics, or several varieties of polymer materials. Even the requirement that biomaterials processed from 
+these materials be nontoxic to host tissue can be met by techniques derived from studying the reactions of 
+tissue cultures to biomaterials or from short-term implants. But achieving necessary matches in physical 
+properties across interfaces between living and non-living matter requires knowledge of which molecules 
+control the bonding of cells to each other-an area that we have not yet explored thoroughly. Although recent 
+research has allowed us to stabilize the tissue-biomaterial interface by controlling either the chemical reactions 
+or the microstructure of the biomaterials, our fundamental understanding of how implant devices adhere to 
+tissues remains woefully incomplete.

@@ -1,0 +1,15 @@
+Astronomers have had difficulty accounting for certain planets discovered outside our solar 
+system. They are called hot Jupiters because each is similar in mass to Jupiter, the largest 
+solar-system planet, but orbits its parent star at a fraction of the distance at which Earth, let alone 
+Jupiter, orbits the Sun. In the standard, solar-system-based theory of planetary formation, such a 
+massive planet could not form so close to a star. So most attempts to explain a hot Jupiter’s 
+existence envision it forming farther away, then migrating inward. 
+
+According to one hypothesis, the planet’s gravitational field tugs on the protoplanetary disk of 
+dust and gas from which it formed. The disk exerts its own gravitational tug, and this interplay of 
+forces robs the planet of momentum in its orbital path, forcing it to spiral in toward the star. 
+According to another hypothesis, the planet’s gravitational field is so strong that it creates a 
+groove in the disk, partitioning it into inner and outer regions; the resulting gravitational 
+interactions between the planet and these regions cause the planet to lose orbital momentum and 
+spiral inward. Another question remains: what prevents the planet from continuing its spiral until 
+it collides with the star? 

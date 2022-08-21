@@ -1,0 +1,26 @@
+Navigation computers, now sold by most car-makers, cost $2,000 and up. No surprise, then, that they are most often found i
+n luxury cars, like Lexus,BMW and Audi. But it is a developing technology-meaning prices should eventually drop-and the 
+market does seem to be growing.
+
+　　Even at current prices, a navigation computer is impressive. It can guide you from point to point in most major cities 
+with precise turn-by-turn directions-spoken by a clear human-sounding voice. and written on ascreen in front of the driver.
+
+　　The computer works with an antenna  that takes signals from no fewer than three or the 24, global positioning system 
+(GPS) satellites. By measuring the time required for a signal to travel between the satellites and the antenna. the car's 
+location can be pinned down within l00 meters.
+
+　　The satellite signals. along with inputs on speed from a wheel-speed sensor and direction from a meter, determine the 
+car’s position even as it moves. This information is combined with a map database. Streets, landmarks and points of 
+interest are included.
+
+　　Most systems are basically identical. The differences come in hardware-the way the computer accepts the driver's 
+request for directions and the way it presents the driving instructions. On most systems, a driver enters a desired address, 
+motorway junction or point of interest via a touch screen or disc. But the Lexusscreen goes a step further: you can point to 
+any spot on the map screen and get directions to it.
+
+　　BMW's system offers a set of cross hairs that can be moved across the map (you have several choices of map scale) to 
+pick a point you'd like to get to. Audi's screen can be switched to TV reception.
+
+　　Even the voices that recite the directions can differ, with better systems like BMW's and Lexus's having awider 
+vocabulary. The instructions are available in French. German, Spanish, Dutch and Italian, as well asEnglish. The driver can 
+also choose parameters for determining the route: fastest, shortest or no freeways, for example.
